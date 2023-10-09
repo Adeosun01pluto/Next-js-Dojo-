@@ -1,0 +1,116 @@
+{
+  "tickets": [
+    {
+      "id": 1,
+      "title": "Issue with login",
+      "body": "I cannot log in to my account. It says my password is incorrect.",
+      "priority": "high",
+      "user_email": "user1@example.com"
+    },
+    {
+      "id": 2,
+      "title": "Payment not processing",
+      "body": "I tried to make a payment, but it's not going through. Please help!",
+      "priority": "medium",
+      "user_email": "user2@example.com"
+    },
+    {
+      "id": 3,
+      "title": "Website error",
+      "body": "The website is displaying a 404 error when I try to access the dashboard.",
+      "priority": "high",
+      "user_email": "user3@example.com"
+    },
+    {
+      "id": 4,
+      "title": "Missing features",
+      "body": "I noticed some features are missing from my account. Is this intentional?",
+      "priority": "low",
+      "user_email": "user4@example.com"
+    },
+    {
+      "id": 5,
+      "title": "Product feedback",
+      "body": "I have a suggestion for a new feature that would improve the product.",
+      "priority": "low",
+      "user_email": "user5@example.com"
+    },
+    {
+      "id": 6,
+      "title": "Account suspension",
+      "body": "My account has been suspended, and I'm not sure why. Please help me resolve this issue.",
+      "priority": "high",
+      "user_email": "user6@example.com"
+    },
+    {
+      "id": 7,
+      "title": "Slow response times",
+      "body": "The website is responding very slowly. It's affecting my work.",
+      "priority": "medium",
+      "user_email": "user7@example.com"
+    },
+    {
+      "id": 8,
+      "title": "Password reset request",
+      "body": "I forgot my password and need to reset it. Please send me a password reset link.",
+      "priority": "medium",
+      "user_email": "user8@example.com"
+    },
+    {
+      "id": 9,
+      "title": "Broken links",
+      "body": "I've encountered several broken links while navigating the website.",
+      "priority": "high",
+      "user_email": "user9@example.com"
+    },
+    {
+      "id": 10,
+      "title": "Mobile app issue",
+      "body": "The mobile app crashes every time I try to open it.",
+      "priority": "high",
+      "user_email": "user10@example.com"
+    },
+    {
+      "title": "cjeck",
+      "body": "blah blah blah",
+      "priority": "low",
+      "user_email": "mario@ninja.dev",
+      "id": 11
+    },
+    {
+      "title": "checkings ",
+      "body": "blah blah blah",
+      "priority": "low",
+      "user_email": "mario@ninja.dev",
+      "id": 12
+    },
+    {
+      "title": "blah ",
+      "body": "blah blah blah",
+      "priority": "medium",
+      "user_email": "mario@ninja.dev",
+      "id": 13
+    },
+    {
+      "title": "http://localhost:4000/tickets",
+      "body": "http://localhost:4000/tickets http://localhost:4000/tickets",
+      "priority": "low",
+      "user_email": "mario@ninja.dev",
+      "id": 14
+    },
+    {
+      "title": "cheeeck",
+      "body": "woooooooow",
+      "priority": "high",
+      "user_email": "mario@ninja.dev",
+      "id": 15
+    },
+    {
+      "title": "add o",
+      "body": "add a new ticker",
+      "priority": "low",
+      "user_email": "mario@ninja.dev",
+      "id": 16
+    }
+  ]
+}
